@@ -1,8 +1,8 @@
 #!/usr/bin/env bash
 # This is a practice script for the Husky Coding Project's Git
-# and Command Line workshop. 
+# and Command Line workshop.
 
-NAME="HELLO WORLD" # Change This Variable to Your Name
+NAME="Mia McDunnah"
 
 validate_name() {
     if [ "$NAME" = "HELLO WORLD" ]; then
